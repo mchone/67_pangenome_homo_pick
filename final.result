@@ -1,0 +1,467 @@
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: DHX2.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	DHX2_00004437	100.00	1883	0	0	1	1883	15836	13954	0.0	3661
+Chr10:18573539..18577856	DHX2_00004437	100.00	1906	0	0	1948	3853	13889	11984	0.0	3588
+Chr10:18573539..18577856	DHX2_00004437	100.00	405	0	0	3914	4318	11923	11519	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: GLA4.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	GLA4_00006775	99.24	1315	7	2	2542	3853	9236	7922	0.0	2466
+Chr10:18573539..18577856	GLA4_00006775	98.77	1057	5	2	827	1883	11847	10799	0.0	1941
+Chr10:18573539..18577856	GLA4_00006775	99.09	882	1	1	1	875	12729	11848	0.0	1689
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: GP104.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	GP104_00011903	98.96	1057	4	2	827	1883	35562	34513	0.0	1949
+Chr10:18573539..18577856	GP104_00011903	99.09	882	1	1	1	875	36444	35563	0.0	1689
+Chr10:18573539..18577856	GP104_00011903	98.64	736	10	0	3118	3853	32410	31675	0.0	1380
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: GP124.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	GP124_00014758	98.96	1057	4	2	827	1883	68000	69049	0.0	1949
+Chr10:18573539..18577856	GP124_00014758	99.09	882	1	1	1	875	67118	67999	0.0	1689
+Chr10:18573539..18577856	GP124_00014758	98.64	736	10	0	3118	3853	71153	71888	0.0	1380
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: GP22.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	GP22_00005471	99.24	1315	7	2	2542	3853	38252	36938	0.0	2466
+Chr10:18573539..18577856	GP22_00005471	98.77	1057	5	2	827	1883	40862	39814	0.0	1941
+Chr10:18573539..18577856	GP22_00005471	99.09	882	1	1	1	875	41744	40863	0.0	1689
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: GP295-1.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	GP295-1_00013911	99.05	1057	3	2	827	1883	40199	39150	0.0	1957
+Chr10:18573539..18577856	GP295-1_00013911	98.98	882	2	1	1	875	41081	40200	0.0	1681
+Chr10:18573539..18577856	GP295-1_00013911	99.46	736	4	0	3118	3853	37064	36329	0.0	1427
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: GP39.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	GP39_00012675	99.24	1315	7	2	2542	3853	10517	11831	0.0	2466
+Chr10:18573539..18577856	GP39_00012675	98.77	1057	5	2	827	1883	7907	8955	0.0	1941
+Chr10:18573539..18577856	GP39_00012675	99.09	882	1	1	1	875	7025	7906	0.0	1689
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: GP3.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	GP3_00005027	99.24	1315	7	2	2542	3853	37243	35929	0.0	2466
+Chr10:18573539..18577856	GP3_00005027	98.77	1057	5	2	827	1883	39853	38805	0.0	1941
+Chr10:18573539..18577856	GP3_00005027	99.09	882	1	1	1	875	40735	39854	0.0	1689
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: GP51.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	GP51_00002364	99.24	1315	7	2	2542	3853	47860	46546	0.0	2466
+Chr10:18573539..18577856	GP51_00002364	98.77	1057	5	2	827	1883	50470	49422	0.0	1941
+Chr10:18573539..18577856	GP51_00002364	99.09	882	1	1	1	875	51352	50471	0.0	1689
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: GP536.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	GP536_00004054	100.00	1883	0	0	1	1883	104723	106605	0.0	3661
+Chr10:18573539..18577856	GP536_00004054	100.00	1906	0	0	1948	3853	106670	108575	0.0	3588
+Chr10:18573539..18577856	GP536_00004054	100.00	405	0	0	3914	4318	108636	109040	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: GP540.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	GP540_00016880	98.96	1057	4	2	827	1883	39874	38825	0.0	1949
+Chr10:18573539..18577856	GP540_00016880	99.09	882	1	1	1	875	40756	39875	0.0	1689
+Chr10:18573539..18577856	GP540_00016880	98.64	736	10	0	3118	3853	36723	35988	0.0	1380
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: GP551.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	GP551_00013264	100.00	1883	0	0	1	1883	35168	33286	0.0	3661
+Chr10:18573539..18577856	GP551_00013264	100.00	1906	0	0	1948	3853	33221	31316	0.0	3588
+Chr10:18573539..18577856	GP551_00013264	100.00	405	0	0	3914	4318	31255	30851	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: GP567.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	GP567_00011661	100.00	1883	0	0	1	1883	42574	44456	0.0	3661
+Chr10:18573539..18577856	GP567_00011661	100.00	1906	0	0	1948	3853	44521	46426	0.0	3588
+Chr10:18573539..18577856	GP567_00011661	100.00	405	0	0	3914	4318	46487	46891	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: GP62.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	GP62_00007441	98.71	1314	14	2	2542	3853	1675	2987	0.0	2416
+Chr10:18573539..18577856	GP62_00022444	98.61	1005	3	3	827	1831	14563	15556	0.0	1820
+Chr10:18573539..18577856	GP62_00022444	98.87	882	3	1	1	875	13681	14562	0.0	1673
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: GP640.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	GP640_00008439	99.24	1315	7	2	2542	3853	16009	17323	0.0	2466
+Chr10:18573539..18577856	GP640_00008439	98.77	1057	5	2	827	1883	13399	14447	0.0	1941
+Chr10:18573539..18577856	GP640_00008439	99.09	882	1	1	1	875	12517	13398	0.0	1689
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: GP669.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	GP669_00002368	100.00	1883	0	0	1	1883	97165	99047	0.0	3661
+Chr10:18573539..18577856	GP669_00002368	100.00	1906	0	0	1948	3853	99112	101017	0.0	3588
+Chr10:18573539..18577856	GP669_00002368	100.00	405	0	0	3914	4318	101078	101482	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: GP677.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	GP677_00010687	100.00	1883	0	0	1	1883	15825	13943	0.0	3661
+Chr10:18573539..18577856	GP677_00010687	100.00	1906	0	0	1948	3853	13878	11973	0.0	3588
+Chr10:18573539..18577856	GP677_00010687	100.00	405	0	0	3914	4318	11912	11508	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: GP72.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	GP72_00015109	99.24	1315	7	2	2542	3853	45520	44206	0.0	2466
+Chr10:18573539..18577856	GP72_00015109	98.77	1057	5	2	827	1883	48130	47082	0.0	1941
+Chr10:18573539..18577856	GP72_00015109	99.09	882	1	1	1	875	49012	48131	0.0	1689
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: GP761-1.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	GP761-1_00010960	100.00	1883	0	0	1	1883	35526	33644	0.0	3661
+Chr10:18573539..18577856	GP761-1_00010960	100.00	1906	0	0	1948	3853	33579	31674	0.0	3588
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: GP772-1.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	GP772-1_00002297	99.24	1315	7	2	2542	3853	23651	22337	0.0	2466
+Chr10:18573539..18577856	GP772-1_00002297	98.77	1057	5	2	827	1883	26261	25213	0.0	1941
+Chr10:18573539..18577856	GP772-1_00002297	99.09	882	1	1	1	875	27143	26262	0.0	1689
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: GP77.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	GP77_00001124	100.00	1883	0	0	1	1883	104833	106715	0.0	3661
+Chr10:18573539..18577856	GP77_00001124	100.00	1906	0	0	1948	3853	106780	108685	0.0	3588
+Chr10:18573539..18577856	GP77_00001124	100.00	405	0	0	3914	4318	108746	109150	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: HP103.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	HP103_00012676	100.00	1883	0	0	1	1883	13712	15594	0.0	3661
+Chr10:18573539..18577856	HP103_00012676	100.00	1906	0	0	1948	3853	15659	17564	0.0	3588
+Chr10:18573539..18577856	HP103_00012676	100.00	405	0	0	3914	4318	17625	18029	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: HP119.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	HP119_00012154	99.24	1315	7	2	2542	3853	37753	36439	0.0	2466
+Chr10:18573539..18577856	HP119_00012154	98.77	1057	5	2	827	1883	40364	39316	0.0	1941
+Chr10:18573539..18577856	HP119_00012154	99.09	882	1	1	1	875	41246	40365	0.0	1689
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: HP13-2.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	HP13-2_00017820	100.00	1883	0	0	1	1883	11474	9592	0.0	3661
+Chr10:18573539..18577856	HP13-2_00017820	100.00	1906	0	0	1948	3853	9527	7622	0.0	3588
+Chr10:18573539..18577856	HP13-2_00017820	100.00	405	0	0	3914	4318	7561	7157	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: HP14.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	HP14_00016158	100.00	1883	0	0	1	1883	15994	14112	0.0	3661
+Chr10:18573539..18577856	HP14_00016158	100.00	1906	0	0	1948	3853	14047	12142	0.0	3588
+Chr10:18573539..18577856	HP14_00016158	100.00	405	0	0	3914	4318	12081	11677	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: HP263.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	HP263_00007264	99.24	1315	7	2	2542	3853	12655	11341	0.0	2466
+Chr10:18573539..18577856	HP263_00007264	98.77	1057	5	2	827	1883	15265	14217	0.0	1941
+Chr10:18573539..18577856	HP263_00007264	99.09	882	1	1	1	875	16147	15266	0.0	1689
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: HP274.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	HP274_00027630	98.78	1315	13	2	2542	3853	12979	11665	0.0	2418
+Chr10:18573539..18577856	HP274_00027630	98.86	1057	5	2	827	1883	15589	14540	0.0	1941
+Chr10:18573539..18577856	HP274_00027630	98.75	882	4	1	1	875	16471	15590	0.0	1665
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: HP314.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	HP314_00016615	100.00	1883	0	0	1	1883	13729	15611	0.0	3661
+Chr10:18573539..18577856	HP314_00016615	100.00	1906	0	0	1948	3853	15676	17581	0.0	3588
+Chr10:18573539..18577856	HP314_00016615	100.00	405	0	0	3914	4318	17642	18046	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: HP327.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	HP327_00002292	99.24	1314	8	1	2542	3853	37242	35929	0.0	2472
+Chr10:18573539..18577856	HP327_00002292	98.77	1057	5	2	827	1883	39853	38805	0.0	1941
+Chr10:18573539..18577856	HP327_00002292	99.09	882	1	1	1	875	40735	39854	0.0	1689
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: HP362-2.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	HP362-2_00024792	99.05	1057	4	2	827	1883	36927	35877	0.0	1949
+Chr10:18573539..18577856	HP362-2_00024792	99.09	882	1	1	1	875	37809	36928	0.0	1689
+Chr10:18573539..18577856	HP362-2_00024792	98.91	736	8	0	3118	3853	33766	33031	0.0	1396
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: HP383.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	HP383_00017069	99.32	1314	7	1	2542	3853	32922	31609	0.0	2480
+Chr10:18573539..18577856	HP383_00017069	98.77	1057	5	2	827	1883	35533	34485	0.0	1941
+Chr10:18573539..18577856	HP383_00017069	99.09	882	1	1	1	875	36415	35534	0.0	1689
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: HP38.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	HP38_00017041	100.00	1883	0	0	1	1883	15815	13933	0.0	3661
+Chr10:18573539..18577856	HP38_00017041	100.00	1906	0	0	1948	3853	13868	11963	0.0	3588
+Chr10:18573539..18577856	HP38_00017041	100.00	405	0	0	3914	4318	11902	11498	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: HP390.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	HP390_00014539	100.00	1883	0	0	1	1883	65030	66912	0.0	3661
+Chr10:18573539..18577856	HP390_00014539	100.00	1906	0	0	1948	3853	66977	68882	0.0	3588
+Chr10:18573539..18577856	HP390_00014539	100.00	405	0	0	3914	4318	68943	69347	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: HP396.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	HP396_00009282	99.24	1315	7	2	2542	3853	37500	36186	0.0	2466
+Chr10:18573539..18577856	HP396_00009282	98.77	1057	5	2	827	1883	40110	39062	0.0	1941
+Chr10:18573539..18577856	HP396_00009282	98.98	882	1	2	1	875	40991	40111	0.0	1673
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: HP407.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	HP407_00002427	99.24	1315	7	2	2542	3853	38223	36909	0.0	2466
+Chr10:18573539..18577856	HP407_00002427	98.77	1057	5	2	827	1883	40834	39786	0.0	1941
+Chr10:18573539..18577856	HP407_00002427	99.09	882	1	1	1	875	41716	40835	0.0	1689
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: HP44.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	HP44_00013101	100.00	1883	0	0	1	1883	11453	13335	0.0	3661
+Chr10:18573539..18577856	HP44_00013101	100.00	1906	0	0	1948	3853	13400	15305	0.0	3588
+Chr10:18573539..18577856	HP44_00013101	100.00	405	0	0	3914	4318	15366	15770	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: HP45.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	HP45_00012838	100.00	1883	0	0	1	1883	11454	13336	0.0	3661
+Chr10:18573539..18577856	HP45_00012838	100.00	1906	0	0	1948	3853	13401	15306	0.0	3588
+Chr10:18573539..18577856	HP45_00012838	100.00	405	0	0	3914	4318	15367	15771	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: HP486.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	HP486_00017362	99.24	1315	7	2	2542	3853	14041	15355	0.0	2466
+Chr10:18573539..18577856	HP486_00017362	98.77	1057	5	2	827	1883	11431	12479	0.0	1941
+Chr10:18573539..18577856	HP486_00017362	98.98	882	1	2	1	875	10550	11430	0.0	1673
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: HP48.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	HP48_00026677	100.00	1883	0	0	1	1883	15795	13913	0.0	3661
+Chr10:18573539..18577856	HP48_00026677	100.00	1906	0	0	1948	3853	13848	11943	0.0	3588
+Chr10:18573539..18577856	HP48_00026677	100.00	405	0	0	3914	4318	11882	11478	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: HP492.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	HP492_00007718	99.24	1315	7	2	2542	3853	36370	37684	0.0	2466
+Chr10:18573539..18577856	HP492_00007718	98.77	1057	5	2	827	1883	33760	34808	0.0	1941
+Chr10:18573539..18577856	HP492_00007718	99.09	882	1	1	1	875	32878	33759	0.0	1689
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: HP517-1.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	HP517-1_00002354	99.32	1314	7	1	2542	3853	37241	35928	0.0	2480
+Chr10:18573539..18577856	HP517-1_00002354	98.77	1057	5	2	827	1883	39852	38804	0.0	1941
+Chr10:18573539..18577856	HP517-1_00002354	99.09	882	1	1	1	875	40734	39853	0.0	1689
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: HP577.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	HP577_00007669	99.24	1315	7	2	2542	3853	32903	31589	0.0	2466
+Chr10:18573539..18577856	HP577_00007669	98.77	1057	5	2	827	1883	35513	34465	0.0	1941
+Chr10:18573539..18577856	HP577_00007669	99.09	882	1	1	1	875	36395	35514	0.0	1689
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: HP91-2.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	HP91-2_00020401	99.95	1883	0	1	1	1883	7070	5189	0.0	3651
+Chr10:18573539..18577856	HP91-2_00020401	100.00	1906	0	0	1948	3853	5124	3219	0.0	3588
+Chr10:18573539..18577856	HP91-2_00020401	100.00	405	0	0	3914	4318	3158	2754	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: HP98.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	HP98_00020379	99.95	1883	0	1	1	1883	15814	13933	0.0	3651
+Chr10:18573539..18577856	HP98_00020379	100.00	1906	0	0	1948	3853	13868	11963	0.0	3588
+Chr10:18573539..18577856	HP98_00020379	100.00	405	0	0	3914	4318	11902	11498	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: IL9.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	IL9_00014891	100.00	1883	0	0	1	1883	15837	13955	0.0	3661
+Chr10:18573539..18577856	IL9_00014891	100.00	1906	0	0	1948	3853	13890	11985	0.0	3588
+Chr10:18573539..18577856	IL9_00014891	100.00	405	0	0	3914	4318	11924	11520	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: Kasalath.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	Kasalath_00006670	99.24	1315	7	2	2542	3853	10355	9041	0.0	2466
+Chr10:18573539..18577856	Kasalath_00006670	98.77	1057	5	2	827	1883	12965	11917	0.0	1941
+Chr10:18573539..18577856	Kasalath_00006670	99.09	882	1	1	1	875	13847	12966	0.0	1689
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: Koshihikari.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	Koshihikari_00014835	100.00	1883	0	0	1	1883	15837	13955	0.0	3661
+Chr10:18573539..18577856	Koshihikari_00014835	100.00	1906	0	0	1948	3853	13890	11985	0.0	3588
+Chr10:18573539..18577856	Koshihikari_00014835	100.00	405	0	0	3914	4318	11924	11520	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: KY131.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	KY131_00014862	100.00	1883	0	0	1	1883	12528	10646	0.0	3661
+Chr10:18573539..18577856	KY131_00014862	100.00	1906	0	0	1948	3853	10581	8676	0.0	3588
+Chr10:18573539..18577856	KY131_00014862	100.00	405	0	0	3914	4318	8615	8211	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: LG31.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	LG31_00012560	100.00	1883	0	0	1	1883	15834	13952	0.0	3661
+Chr10:18573539..18577856	LG31_00012560	100.00	1906	0	0	1948	3853	13887	11982	0.0	3588
+Chr10:18573539..18577856	LG31_00012560	100.00	405	0	0	3914	4318	11921	11517	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: Nipponbare.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	Nipponbare_00017246	100.00	1883	0	0	1	1883	15821	13939	0.0	3661
+Chr10:18573539..18577856	Nipponbare_00017246	100.00	1906	0	0	1948	3853	13874	11969	0.0	3588
+Chr10:18573539..18577856	Nipponbare_00017246	100.00	405	0	0	3914	4318	11908	11504	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: UR28.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	UR28_00012475	100.00	1883	0	0	1	1883	13612	15494	0.0	3661
+Chr10:18573539..18577856	UR28_00012475	100.00	1906	0	0	1948	3853	15559	17464	0.0	3588
+Chr10:18573539..18577856	UR28_00012475	100.00	405	0	0	3914	4318	17525	17929	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: W0123-1.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	W0123-1_00018722	98.96	1057	4	2	827	1883	44925	43876	0.0	1949
+Chr10:18573539..18577856	W0123-1_00018722	99.09	882	1	1	1	875	45807	44926	0.0	1689
+Chr10:18573539..18577856	W0123-1_00018722	98.64	736	10	0	3118	3853	41773	41038	0.0	1380
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: W0128.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	W0128_00022663	99.16	1315	8	2	2542	3853	15798	17112	0.0	2458
+Chr10:18573539..18577856	W0128_00022663	98.77	1057	5	2	827	1883	13188	14236	0.0	1941
+Chr10:18573539..18577856	W0128_00022663	99.09	882	1	1	1	875	12306	13187	0.0	1689
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: W0141.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	W0141_00012669	99.15	1890	5	3	1	1883	16094	17979	0.0	3552
+Chr10:18573539..18577856	W0141_00012669	98.78	736	9	0	3118	3853	20092	20827	0.0	1388
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: W0170.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	W0170_00010514	99.16	1315	8	2	2542	3853	11386	12700	0.0	2458
+Chr10:18573539..18577856	W0170_00010514	98.86	1057	5	2	827	1883	8774	9823	0.0	1941
+Chr10:18573539..18577856	W0170_00010514	98.87	882	2	2	1	875	7893	8773	0.0	1665
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: W1687.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	W1687_00026831	98.86	1314	11	2	2542	3853	9239	10550	0.0	2426
+Chr10:18573539..18577856	W1687_00026831	98.86	1057	5	2	827	1883	6631	7680	0.0	1941
+Chr10:18573539..18577856	W1687_00026831	99.09	882	1	1	1	875	5749	6630	0.0	1689
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: W1698.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	W1698_00023213	99.05	1057	4	2	827	1883	14400	13350	0.0	1949
+Chr10:18573539..18577856	W1698_00023213	98.87	882	3	1	1	875	15282	14401	0.0	1673
+Chr10:18573539..18577856	W1698_00023213	98.91	736	8	0	3118	3853	11239	10504	0.0	1396
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: W1739.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	W1739_00014224	98.86	1057	5	2	827	1883	11543	12592	0.0	1941
+Chr10:18573539..18577856	W1739_00014224	98.98	882	2	1	1	875	10661	11542	0.0	1681
+Chr10:18573539..18577856	W1739_00014224	99.05	736	7	0	3118	3853	14695	15430	0.0	1403
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: W1754.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	W1754_00010587	98.93	1314	12	1	2542	3853	107999	106686	0.0	2440
+Chr10:18573539..18577856	W1754_00010587	98.77	1057	6	2	827	1883	110610	109561	0.0	1933
+Chr10:18573539..18577856	W1754_00010587	98.98	882	2	1	1	875	111492	110611	0.0	1681
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: W1777.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	W1777_00022715	98.86	1057	5	2	827	1883	20556	19507	0.0	1941
+Chr10:18573539..18577856	W1777_00022715	98.98	882	2	1	1	875	21438	20557	0.0	1681
+Chr10:18573539..18577856	W1777_00022715	98.91	736	8	0	3118	3853	17403	16668	0.0	1396
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: W1943.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	W1943_00023747	99.93	1441	1	0	2413	3853	9088	7648	0.0	2801
+Chr10:18573539..18577856	W1943_00023747	98.96	1057	4	2	827	1883	11601	10552	0.0	1949
+Chr10:18573539..18577856	W1943_00023747	98.98	882	2	1	1	875	12483	11602	0.0	1681
+Chr10:18573539..18577856	W1943_00023747	99.26	405	2	1	3914	4318	7587	7184	0.0	 771
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: W1979.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	W1979_00000375	98.96	1057	4	2	827	1883	52530	51481	0.0	1949
+Chr10:18573539..18577856	W1979_00000375	98.98	882	2	1	1	875	53412	52531	0.0	1681
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: W2012.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	W2012_00012916	98.86	1057	4	2	827	1883	7961	9009	0.0	1949
+Chr10:18573539..18577856	W2012_00012916	98.98	882	1	2	1	875	7080	7960	0.0	1673
+Chr10:18573539..18577856	W2012_00012916	98.78	736	9	0	3118	3853	11112	11847	0.0	1388
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: W3078-2.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	W3078-2_00004611	99.89	1883	1	1	1	1883	105996	107877	0.0	3644
+Chr10:18573539..18577856	W3078-2_00004611	99.16	1906	1	1	1948	3853	107942	109832	0.0	3481
+Chr10:18573539..18577856	W3078-2_00004611	98.77	405	2	1	3914	4318	109893	110294	0.0	 759
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: W3095-2.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	W3095-2_00000942	99.79	1883	2	1	1	1883	105190	107070	0.0	3636
+Chr10:18573539..18577856	W3095-2_00000942	100.00	1441	0	0	2413	3853	108529	109969	0.0	2809
+Chr10:18573539..18577856	W3095-2_00000942	100.00	405	0	0	3914	4318	110030	110434	0.0	 803
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: W3105-1.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	W3105-1_00021048	98.96	1057	4	2	827	1883	39902	38853	0.0	1949
+Chr10:18573539..18577856	W3105-1_00021048	99.09	882	1	1	1	875	40784	39903	0.0	1689
+Chr10:18573539..18577856	W3105-1_00021048	98.64	736	10	0	3118	3853	36751	36016	0.0	1380
+# BLASTN 2.2.22 [Sep-27-2009]
+# Query: Chr10:18573539..18577856
+# Database: WYG7.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+Chr10:18573539..18577856	WYG7_00024570	99.95	1883	0	1	1	1883	13704	15585	0.0	3651
+Chr10:18573539..18577856	WYG7_00024570	100.00	1906	0	0	1948	3853	15650	17555	0.0	3588
+Chr10:18573539..18577856	WYG7_00024570	100.00	405	0	0	3914	4318	17616	18020	0.0	 803
